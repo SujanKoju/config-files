@@ -16,8 +16,8 @@ spring:
       host: 127.0.0.1
       port: 27017
       authentication-database: admin
-      username: root
-      password: "{cipher}967f1cdc06e76ef279f6cc732928061e2489870ddf94af13ca4ebdc7fa42f43d"
+#       username: root
+#       password: "{cipher}967f1cdc06e76ef279f6cc732928061e2489870ddf94af13ca4ebdc7fa42f43d"
 
 
 server:
