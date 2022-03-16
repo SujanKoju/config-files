@@ -1,6 +1,4 @@
 spring:
-  jackson:
-    property-naming-strategy: SNAKE_CASE
   data:
     mongodb:
       database: products_db
